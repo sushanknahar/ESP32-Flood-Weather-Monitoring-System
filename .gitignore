@@ -1,0 +1,21 @@
+# Arduino and embedded build outputs
+build/
+*.bin
+*.elf
+*.hex
+*.map
+*.uf2
+
+# Runtime data
+data.csv
+*.csv
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
