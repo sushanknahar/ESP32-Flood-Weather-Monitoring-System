@@ -148,15 +148,4 @@ Projects with real build photos look much stronger to recruiters than code-only 
 - Add unit-tested logic for flood alert decisions
 - Add enclosure design and field test results
 
-## Resume Skills Demonstrated
 
-- Embedded C/C++
-- ESP32 firmware development
-- Interrupt programming
-- Sensor integration
-- SPI and I2C communication
-- Analog and digital GPIO
-- SD card file logging
-- Environmental monitoring
-- Modular firmware design
-- Basic fault handling and diagnostics
